@@ -7,7 +7,7 @@ This is the Project of Digital Image Processing in class 64CS2 - Group 4. Group 
 3, Image Matching <br>
 4, Result for Programming Code.
 
-**Member of Group 4 - 64CS2 - Department of Computer Science (HUCE)** <br>
+**Member of Group 4 - 64CS2 - Department of Computer Science (HUCE):** <br>
 1, Nguyễn Khánh Duy  <br>
 2, Nguyễn Đình Huy  <br>
 3, Lương Thanh Tài  <br>
