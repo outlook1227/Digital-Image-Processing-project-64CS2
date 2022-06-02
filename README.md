@@ -1,9 +1,9 @@
 # Digital Image Processing project - 64CS2
-This is the Project of Digital Image Processing in class 64CS2 - Group 4. Group members are studying Computer Science of Hanoi University of Civil Engineering (HUCE)! In this project, we will research for project is Face Detection! Face Detection is a technique very important in Digital Image Processing! 
-This is content for project of Group 4 - 64CS2
-1, Color Segmentation
-2, Image Segmentation
-3, Image Matching
+This is the Project of Digital Image Processing in class 64CS2 - Group 4. Group members are studying Computer Science of Hanoi University of Civil Engineering (HUCE)! In this project, we will research for project is Face Detection! Face Detection is a technique very important in Digital Image Processing! <br>
+This is content for project of Group 4 - 64CS2:  <br>
+1, Color Segmentation <br>
+2, Image Segmentation <br>
+3, Image Matching <br>
 4, Result for Programming Code.
 
 Member of Group 4 - 64CS2 - Department of Computer Science (HUCE) <br>
