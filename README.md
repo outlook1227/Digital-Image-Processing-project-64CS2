@@ -21,8 +21,10 @@ This is the Project of Digital Image Processing in class 64CS2 - Group 4. Group 
 4, Nguyễn Huy Thành - 1546864 <br>
 5, Đỗ Đức Tiến - 1660364
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
