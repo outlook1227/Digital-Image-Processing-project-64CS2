@@ -15,8 +15,14 @@ This is the Project of Digital Image Processing in class 64CS2 - Group 4. Group 
 4, Result for Programming Code.
 
 **Member of Group 4 - 64CS2 - Department of Computer Science (HUCE):** <br>
-1, Nguyễn Khánh Duy  <br>
-2, Nguyễn Đình Huy  <br>
-3, Lương Thanh Tài  <br>
-4, Nguyễn Huy Thành  <br>
-5, Đỗ Đức Tiến
+1, Nguyễn Khánh Duy - 1510964 <br>
+2, Nguyễn Đình Huy - 1524964 <br>
+3, Lương Thanh Tài - 173264 <br>
+4, Nguyễn Huy Thành - 1546864 <br>
+5, Đỗ Đức Tiến - 1660364
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
